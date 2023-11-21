@@ -1,0 +1,6 @@
+[submodule "PBB"]
+	path = PBB
+	url = https://github.com/mperezortiz/PBB.git
+[submodule "pac_bayes_reg"]
+	path = pac_bayes_reg
+	url = https://github.com/ron-amit/pac_bayes_reg.git
